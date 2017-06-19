@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 19, 2017 (Example 1)
-##### (delete me or comment me out)
 
 **Today's Progress**: I did the FreeCodeCamp Tribute Page Project and start the Portfolio one.
 
