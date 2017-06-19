@@ -8,5 +8,5 @@
 **Thoughts:** I didn't to much effort I think... I guess I want to see things I really don't know about and work on projects I can add to my portfolio.
 
 **Link to work:** 
-[Mona Tribute Page](https://codepen.io/mbelisaire/pen/dRvmgZ) |
-[Random Portfolio](https://codepen.io/mbelisaire/pen/MopXpX)
+1. [Mona Tribute Page](https://codepen.io/mbelisaire/pen/dRvmgZ)
+2. [Random Portfolio](https://codepen.io/mbelisaire/pen/MopXpX)
