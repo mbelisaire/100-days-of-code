@@ -18,3 +18,10 @@
 
 **Link to work:** 
 [Random Portfolio](https://codepen.io/mbelisaire/pen/MopXpX)
+
+### Day 3: June 21, 2017
+
+**Today's Progress**: I did 5 of the FreeCodeCamp basic algorithm challenges.
+
+**Thoughts:** Not so easy but still ok. Is winter coming ?
+
