@@ -25,3 +25,10 @@
 
 **Thoughts:** Not so easy but still ok. Is winter coming ?
 
+### Day 4: June 22, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp basic algorithm challenges.
+
+**Thoughts:** I almost skipped the day because my aunt has come to see us but I still did it and I am really happy to be done with these first challenges. It was funny at times, I missed these code experiences. I am really happy to go to bed too. ^^'
+
+
