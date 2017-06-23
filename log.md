@@ -31,4 +31,11 @@
 
 **Thoughts:** I almost skipped the day because my aunt has come to see us but I still did it and I am really happy to be done with these first challenges. It was funny at times, I missed these code experiences. I am really happy to go to bed too. ^^'
 
+### Day 5: June 23, 2017
 
+**Today's Progress**: I did the reaction tester of "The Complete Web Developer Course 2.0" on Udemy and I did the FreeCodeCamp Random Quote Machine.
+
+**Thoughts:** ...This headache... ^^' Gotta chichat with my bed now. 
+
+**Link to work:** 
+[Random Quote Machine](https://codepen.io/mbelisaire/pen/jwLpEL)
