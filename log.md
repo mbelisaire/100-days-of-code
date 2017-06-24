@@ -39,3 +39,12 @@
 
 **Link to work:** 
 [Random Quote Machine](https://codepen.io/mbelisaire/pen/jwLpEL)
+
+### Day 6: June 24, 2017
+
+**Today's Progress**: I did a currency converter from $ to € in "The Complete Android N Developer Course" on Udemy and I started the FreeCodeCamp Show Local Weather Project.
+
+**Thoughts:** Feeling good anyway :D. 
+
+**Link to work:** 
+[Show Local Weather](https://codepen.io/mbelisaire/pen/RgLNOy)
