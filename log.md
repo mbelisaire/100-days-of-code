@@ -48,3 +48,12 @@
 
 **Link to work:** 
 [Show Local Weather](https://codepen.io/mbelisaire/pen/RgLNOy)
+
+### Day 7: June 25, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Show Local Weather Project.
+
+**Thoughts:** It was really interesting, but I guess I could propose a better design. Nice day anyway. 
+
+**Link to work:** 
+[Show Local Weather](https://codepen.io/mbelisaire/pen/RgLNOy)
