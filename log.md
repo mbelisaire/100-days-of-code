@@ -65,5 +65,5 @@
 **Thoughts:** It is not an easy task... but I have to understand this wikipedia API.
 
 **Link to work:** 
-[Show Local Weather](https://codepen.io/mbelisaire/pen/jwaPwO)
+[Wiki Viewer](https://codepen.io/mbelisaire/pen/jwaPwO)
 
