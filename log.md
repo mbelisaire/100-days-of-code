@@ -57,3 +57,13 @@
 
 **Link to work:** 
 [Show Local Weather](https://codepen.io/mbelisaire/pen/RgLNOy)
+
+### Day 8: June 26, 2017
+
+**Today's Progress**: I started the FreeCodeCamp Wiki Viewer.
+
+**Thoughts:** It is not an easy task... but I have to understand this wikipedia API.
+
+**Link to work:** 
+[Show Local Weather](https://codepen.io/mbelisaire/pen/jwaPwO)
+
