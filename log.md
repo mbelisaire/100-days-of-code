@@ -67,3 +67,13 @@
 **Link to work:** 
 [Wiki Viewer](https://codepen.io/mbelisaire/pen/jwaPwO)
 
+### Day 9: June 27, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Wiki Viewer.
+
+**Thoughts:** It was not easy to understand Wikipedia API and kinda tricky to call it from codepen but I finally found a solution.
+
+**Link to work:** 
+[Wiki Viewer](https://codepen.io/mbelisaire/pen/jwaPwO)
+
+
