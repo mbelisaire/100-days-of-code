@@ -76,4 +76,13 @@
 **Link to work:** 
 [Wiki Viewer](https://codepen.io/mbelisaire/pen/jwaPwO)
 
+### Day 10: June 28, 2017
+
+**Today's Progress**: I started the FreeCodeCamp TwitchTv JSON API Project.
+
+**Thoughts:** It was a special day and I appreciated to finish it by coding.
+
+**Link to work:** 
+[M. Twitch Info](https://codepen.io/mbelisaire/pen/WOdzpQ)
+
 
