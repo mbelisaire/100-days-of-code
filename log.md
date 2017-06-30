@@ -94,6 +94,13 @@
 **Link to work:** 
 [M. Twitch Info](https://codepen.io/mbelisaire/full/WOdzpQ/)
 
+### Day 12: June 30, 2017
+
+**Today's Progress**: I did 5 of the FreeCodeCamp Intermediate Algorithm Scripting Challenges.
+
+**Thoughts:** They are not so easy but today was still a cool day.
+
+
 
 
 
