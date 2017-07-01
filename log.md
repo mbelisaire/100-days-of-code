@@ -100,6 +100,12 @@
 
 **Thoughts:** They are not so easy but today was still a cool day.
 
+### Day 13: July 1, 2017
+
+**Today's Progress**: I did 5 more FreeCodeCamp Intermediate Algorithm Scripting Challenges, I updated my portfolio with last month projects and I added an animation to my portfolio swipe on small screen.
+
+**Thoughts:** I fill better day after day. I like it.
+
 
 
 
