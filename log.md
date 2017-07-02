@@ -106,6 +106,14 @@
 
 **Thoughts:** I fill better day after day. I like it.
 
+### Day 14: July 2, 2017
+
+**Today's Progress**: I started the Code Player project from "The Complete Web Developer Course 2.0" on Udemy. I will share this project through GitHub Pages.
+
+**Thoughts:** It was a light but good day.
+
+**Link to work:** 
+[M. Code Player](https://mbelisaire.github.io/m-code-player/)
 
 
 
