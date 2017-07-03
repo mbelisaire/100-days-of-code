@@ -115,6 +115,15 @@
 **Link to work:** 
 [M. Code Player](https://mbelisaire.github.io/m-code-player/)
 
+### Day 15: July 3, 2017
+
+**Today's Progress**: I kept working on the Code Player project from "The Complete Web Developer Course 2.0" on Udemy. The html and the css areas seem to work. Not so easy but I'm on it! :D
+
+**Thoughts:** Aaaah.. this iframe!
+
+**Link to work:** 
+[M. Code Player](https://mbelisaire.github.io/m-code-player/)
+
 
 
 
