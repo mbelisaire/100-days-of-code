@@ -6,7 +6,7 @@
 
 **Thoughts:** I didn't put to much effort I think... I guess I want to see things I really don't know about and work on projects I can add to my portfolio.
 
-**Link to work:** 
+**Links to work:** 
 1. [Mona Tribute Page](https://codepen.io/mbelisaire/pen/dRvmgZ)
 2. [Random Portfolio](https://codepen.io/mbelisaire/pen/MopXpX)
 
@@ -123,6 +123,16 @@
 
 **Link to work:** 
 [M. Code Player](https://mbelisaire.github.io/m-code-player/)
+
+### Day 16: July 4, 2017
+
+**Today's Progress**: I finished the Code Player project from "The Complete Web Developer Course 2.0" on Udemy. I'll check Rob's solution tomorrow. And I started the App Landing Page project from the same course.
+
+**Thoughts:** I can't wait to start the wordpress section! soon :)
+
+**Links to work:** 
+1. [M. Code Player](https://mbelisaire.github.io/m-code-player/)
+2. [App Landing Page](https://github.com/mbelisaire/app-landing-page-example)
 
 
 
