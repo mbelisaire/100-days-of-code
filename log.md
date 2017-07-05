@@ -134,6 +134,15 @@
 1. [M. Code Player](https://mbelisaire.github.io/m-code-player/)
 2. [App Landing Page](https://github.com/mbelisaire/app-landing-page-example)
 
+### Day 17: July 5, 2017
+
+**Today's Progress**: I finished the App Landing Page project from "The Complete Web Developer Course 2.0" on Udemy. I'll still have to check Rob's solutions. And I did 2 of the FreeCodeCamp Intermediate Algorithms Scripting Challenges.
+
+**Thoughts:** HAHAHA :D Wordpress I see you! :)
+
+**Link to work:** 
+[App Landing Page](https://github.com/mbelisaire/app-landing-page-example)
+
 
 
 
