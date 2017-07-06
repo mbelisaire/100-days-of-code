@@ -143,6 +143,9 @@
 **Link to work:** 
 [App Landing Page](https://github.com/mbelisaire/app-landing-page-example)
 
+### Day 18: July 6, 2017
 
+**Today's Progress**: I finished the FreeCodeCamp Intermediate Algorithms Challenges by doing 9 of them today!
 
+**Thoughts:** Let's try the advanced ones now! :)
 
