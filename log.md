@@ -149,3 +149,9 @@
 
 **Thoughts:** Let's try the advanced ones now! :)
 
+### Day 19: July 7, 2017
+
+**Today's Progress**: I did 3 of the FreeCodeCamp Advanced Algorithm Scripting Challenges!
+
+**Thoughts:** They are really challenging ^^' but I'm on it!! :D
+
