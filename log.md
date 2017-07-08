@@ -155,3 +155,10 @@
 
 **Thoughts:** They are really challenging ^^' but I'm on it!! :D
 
+### Day 20: July 8, 2017
+
+**Today's Progress**: I did 3 more @freeCodeCamp Advanced Algorithm Scripting Challenges. I got stuck on "No repeats please"... I'll try tomorrow for sure.
+
+**Thoughts:** First time getting really stuck, anyway I'll do better tomorrow! :D
+
+
