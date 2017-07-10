@@ -161,4 +161,10 @@
 
 **Thoughts:** First time getting really stuck, anyway I'll do better tomorrow! :D
 
+### Day 21: July 9, 2017
+
+**Today's Progress**: I finally got rid of the @freeCodeCamp Advanced Algorithm Scripting Challenge "No repeats please"... Still 2 left.
+
+**Thoughts:** This one was challenging fo rme! :D
+
 
