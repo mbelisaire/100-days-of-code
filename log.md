@@ -165,6 +165,10 @@
 
 **Today's Progress**: I finally got rid of the @freeCodeCamp Advanced Algorithm Scripting Challenge "No repeats please"... Still 2 left.
 
-**Thoughts:** This one was challenging fo rme! :D
+**Thoughts:** This one was challenging for me! :D
 
+### Day 22: July 10, 2017
 
+**Today's Progress**: I finished the FreeCodeCamp Advanced Algorithm Scripting challenges! Some were really challenging but I am progressing.
+
+**Thoughts:** 4 projects left to get the Front End Development Certificate !! I am excited! :D
