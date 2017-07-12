@@ -172,3 +172,18 @@
 **Today's Progress**: I finished the FreeCodeCamp Advanced Algorithm Scripting challenges! Some were really challenging but I am progressing.
 
 **Thoughts:** 4 projects left to get the Front End Development Certificate !! I am excited! :D
+
+### Day 23: July 11, 2017
+
+**Today's Progress**: No FreeCodeCamp today...😶...😃 I did a sample code for a company!   🔥 Feedbacks are welcomed
+
+**Thoughts:** I appreciate coding this, I hope the company will appreciate it. :D
+
+[Sample Code](http://afidium.mbelisaire.com/)
+
+### Day 24: July 12, 2017
+
+**Today's Progress**: Still no FreeCodeCamp😕... BUT 😃 I played with Openlayers! I may have to work with it very soon🔥
+
+**Thoughts:** It seems like there is not enough hours in the day...
+
