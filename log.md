@@ -179,6 +179,7 @@
 
 **Thoughts:** I appreciate coding this, I hope the company will appreciate it. :D
 
+**Link to work:** 
 [Sample Code](http://afidium.mbelisaire.com/)
 
 ### Day 24: July 12, 2017
@@ -187,3 +188,11 @@
 
 **Thoughts:** It seems like there is not enough hours in the day...
 
+### Day 25: July 13, 2017
+
+**Today's Progress**: I started the FreeCodeCamp Javascript Calculator project.
+
+**Thoughts:** I'm having fun!...
+
+**Link to work:** 
+[M. Calculator](https://codepen.io/mbelisaire/pen/VWgNBw)
