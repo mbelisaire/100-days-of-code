@@ -196,3 +196,13 @@
 
 **Link to work:** 
 [M. Calculator](https://codepen.io/mbelisaire/pen/VWgNBw)
+
+### Day 26: July 14, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Javascript Calculator project and started the Pomodoro Clock Project.
+
+**Thoughts:** What a day!...
+
+**Links to work:** 
+1. [M. Calculator](https://codepen.io/mbelisaire/pen/VWgNBw)
+2. [M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
