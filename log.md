@@ -206,3 +206,12 @@
 **Links to work:** 
 1. [M. Calculator](https://codepen.io/mbelisaire/pen/VWgNBw)
 2. [M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
+
+### Day 27: July 15, 2017
+
+**Today's Progress**: I kept working on the FreeCodeCamp Pomodoro Clock project.
+
+**Thoughts:** I spent a good day with my family...
+
+**Link to work:** 
+[M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
