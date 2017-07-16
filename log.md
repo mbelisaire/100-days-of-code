@@ -215,3 +215,12 @@
 
 **Link to work:** 
 [M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
+
+### Day 28: July 16, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Pomodoro Clock project.
+
+**Thoughts:** I spent an awesome day with my family. Thank God!
+
+**Link to work:** 
+[M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
