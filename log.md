@@ -224,3 +224,12 @@
 
 **Link to work:** 
 [M. Pomodoro Clock](https://codepen.io/mbelisaire/pen/OgqQzO)
+
+### Day 29: July 17, 2017
+
+**Today's Progress**: I started the FreeCodeCamp Tic Tac Toe project.
+
+**Thoughts:** I was kinda tired today but I hold on!
+
+**Link to work:** 
+[M. Tic Tac Toe](https://codepen.io/mbelisaire/pen/dREMWb)
