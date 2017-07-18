@@ -233,3 +233,12 @@
 
 **Link to work:** 
 [M. Tic Tac Toe](https://codepen.io/mbelisaire/pen/dREMWb)
+
+### Day 30: July 18, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Tic Tac Toe project.
+
+**Thoughts:** One project left before the front end development certificate! :D
+
+**Link to work:** 
+[M. Tic Tac Toe](https://codepen.io/mbelisaire/pen/dREMWb)
