@@ -242,3 +242,12 @@
 
 **Link to work:** 
 [M. Tic Tac Toe](https://codepen.io/mbelisaire/pen/dREMWb)
+
+### Round 1 Day 31: July 19, 2017
+
+**Today's Progress**: I started the FreeCodeCamp Simon Game project.
+
+**Thoughts:** It will be an interesting one! :D
+
+**Link to work:** 
+[M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
