@@ -251,3 +251,12 @@
 
 **Link to work:** 
 [M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
+
+### Round 1 Day 32: July 20, 2017
+
+**Today's Progress**: I kept working on the FreeCodeCamp Simon Game project.
+
+**Thoughts:** I'm on it :)
+
+**Link to work:** 
+[M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
