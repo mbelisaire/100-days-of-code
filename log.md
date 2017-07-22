@@ -260,3 +260,12 @@
 
 **Link to work:** 
 [M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
+
+### Round 1 Day 33: July 21, 2017
+
+**Today's Progress**: I finished the FreeCodeCamp Simon Game project and their Front End Development program!
+
+**Thoughts:** Awesome! I am happy :)
+
+**Link to work:** 
+[M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
