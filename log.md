@@ -269,3 +269,9 @@
 
 **Link to work:** 
 [M. Simon](https://codepen.io/mbelisaire/full/ZydPGM/)
+
+### Round 1 Day 34: July 22, 2017
+
+**Today's Progress**: I started my blog project and I am really excited to show you guys but I will only show you when I will be done
+
+**Thoughts:** Not enough hours in a day...
