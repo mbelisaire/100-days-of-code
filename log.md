@@ -275,3 +275,14 @@
 **Today's Progress**: I started my blog project and I am really excited to show you guys but I will only show you when I will be done
 
 **Thoughts:** Not enough hours in a day...
+
+### Round 1 Day 35: July 23, 2017
+
+**Today's Progress**: I did a php contact form for "The Complete Web Developer Course 2.0" course & I tried paper.js & howler.js doing the patatap clone from "The web developer Bootcamp" course.
+
+**Thoughts:** I don't feel comfortable enough with Wordpress to do my blog as I want so I registered for a complete course on wordpress...
+
+
+
+
+
