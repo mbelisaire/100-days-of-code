@@ -282,6 +282,12 @@
 
 **Thoughts:** I don't feel comfortable enough with Wordpress to do my blog as I want so I registered for a complete course on wordpress...
 
+### Round 1 Day 36: July 25, 2017
+
+**Today's Progress**: I skipped yesterday, today I started the Modern React and Redux course from Udemy in order to be able to do the FreeCodeCamp React projects.
+
+**Thoughts:** Seems like some freelance jobs are coming... I hope I will be able to stick to my commitment to the challenge.
+
 
 
 
