@@ -289,6 +289,12 @@
 **Thoughts:** Seems like some freelance jobs are coming... I hope I will be able to stick to my commitment to the challenge.
 
 
+### Round 1 Day 1: July 28, 2017
+
+**Today's Progress**: I got sick and skipped last 2 days... Managing my health is part of my challenge so today I'm back... on day 1!!! I did some React.
+
+**Thoughts:** I still target this day 100! :D
+
 
 
 
