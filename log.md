@@ -295,6 +295,9 @@
 
 **Thoughts:** I still target this day 100! :D
 
+### Round 1 Day 2: July 29, 2017
 
+**Today's Progress**: I did some more React to be able to work on the FreeCodeCamp React projects and I also spent a nice day with my family! :D
 
+**Thoughts:** 98 days left! :D
 
