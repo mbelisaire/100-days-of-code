@@ -301,3 +301,9 @@
 
 **Thoughts:** 98 days left! :D
 
+### Round 1 Day 3: July 30, 2017
+
+**Today's Progress**: I did some Node.Js which is really interesting and I also enjoy precious time with my family.
+
+**Thoughts:** 97 days left and many projects ideas for the next months! :D
+
