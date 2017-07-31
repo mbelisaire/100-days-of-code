@@ -307,3 +307,9 @@
 
 **Thoughts:** 97 days left and many projects ideas for the next months! :D
 
+### Round 1 Day 4: July 31, 2017
+
+**Today's Progress**: I did some MySQL today, it's been a long time actually but it's still good to use it again.
+
+**Thoughts:** 96 days left and I got my first kinda big freelance contract! I'm on it! :D
+
