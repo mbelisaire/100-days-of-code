@@ -313,3 +313,8 @@
 
 **Thoughts:** 96 days left and I got my first kinda big freelance contract! I'm on it! :D
 
+### Round 1 Day 5: August 1, 2017
+
+**Today's Progress**: I worked with MySQL today again, as I will need it for my next project. I truly hope you had a nice day.
+
+**Thoughts:** 95 days left, got a lot of work for the week but I'm on it! :D
