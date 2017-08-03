@@ -318,3 +318,15 @@
 **Today's Progress**: I worked with MySQL today again, as I will need it for my next project. I truly hope you had a nice day.
 
 **Thoughts:** 95 days left, got a lot of work for the week but I'm on it! :D
+
+### Round 1 Day 6: August 2, 2017
+
+**Today's Progress**: I did some php, session, cookies, password encryption then I started the Secret Diary project from "The Complete Web Developer Course 2.0" course.
+
+**Thoughts:** 94 days left,went straight to bed and did not update this file the same day;
+
+### Round 1 Day 7: August 3, 2017
+
+**Today's Progress**: I kept on doing the Secret Diary project from "The Complete Web Developer Course 2.0" course! It was a long day, gotta love my sweet bed tonight
+
+**Thoughts:** 93 days left, go! go! go! :D
