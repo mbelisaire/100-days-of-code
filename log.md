@@ -330,3 +330,13 @@
 **Today's Progress**: I kept on doing the Secret Diary project from "The Complete Web Developer Course 2.0" course! It was a long day, gotta love my sweet bed tonight
 
 **Thoughts:** 93 days left, go! go! go! :D
+
+
+### Round 1 Day 8: August 4, 2017
+
+**Today's Progress**: I finished the Secret Diary project from "The Complete Web Developer Course 2.0" course! I'll check the solution tomorrow .
+
+**Thoughts:** 92 days left, and so much things to do :D
+
+**Link to work:** 
+[M. Secret Diary](http://m-secret-diary.mbelisaire.com/)
