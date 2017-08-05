@@ -340,3 +340,11 @@
 
 **Link to work:** 
 [M. Secret Diary](http://m-secret-diary.mbelisaire.com/)
+
+
+### Round 1 Day 9: August 5, 2017
+
+**Today's Progress**: Back to Node.Js today! I did my first steps with Express and enjoy precious time with my family, time to go to bed!
+
+**Thoughts:** 91 days left, maaking plans... 
+
