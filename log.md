@@ -346,5 +346,10 @@
 
 **Today's Progress**: Back to Node.Js today! I did my first steps with Express and enjoy precious time with my family, time to go to bed!
 
-**Thoughts:** 91 days left, maaking plans... 
+**Thoughts:** 91 days left, making plans... 
 
+### Round 1 Day 10: August 6, 2017
+
+**Today's Progress**: I worked on Node.Js again today! Working on EJS Control Flow! Anyway! It's time to go to bed now!
+
+**Thoughts:** 90 days left, gotta achieve it!
