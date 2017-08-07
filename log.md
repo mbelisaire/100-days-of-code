@@ -331,7 +331,6 @@
 
 **Thoughts:** 93 days left, go! go! go! :D
 
-
 ### Round 1 Day 8: August 4, 2017
 
 **Today's Progress**: I finished the Secret Diary project from "The Complete Web Developer Course 2.0" course! I'll check the solution tomorrow .
@@ -340,7 +339,6 @@
 
 **Link to work:** 
 [M. Secret Diary](http://m-secret-diary.mbelisaire.com/)
-
 
 ### Round 1 Day 9: August 5, 2017
 
@@ -353,3 +351,9 @@
 **Today's Progress**: I worked on Node.Js again today! Working on EJS Control Flow! Anyway! It's time to go to bed now!
 
 **Thoughts:** 90 days left, gotta achieve it!
+
+### Round 1 Day 11: August 7, 2017
+
+**Today's Progress**: I kept on working on Node.JS today! I learned how post requests are done with it and how to request APIs !
+
+**Thoughts:** 89 days left, time is moving to fast!
