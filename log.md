@@ -357,3 +357,9 @@
 **Today's Progress**: I kept on working on Node.JS today! I learned how post requests are done with it and how to request APIs !
 
 **Thoughts:** 89 days left, time is moving to fast!
+
+### Round 1 Day 12: August 8, 2017
+
+**Today's Progress**: I learned MongoDb basics today and how to use Mongoose! It seems like  I enjoy working with Node.Js! 
+
+**Thoughts:** 88 days left, hard work has to pay!
