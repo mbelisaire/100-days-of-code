@@ -363,3 +363,9 @@
 **Today's Progress**: I learned MongoDb basics today and how to use Mongoose! It seems like  I enjoy working with Node.Js! 
 
 **Thoughts:** 88 days left, hard work has to pay!
+
+### Round 1 Day 13: August 9, 2017
+
+**Today's Progress**: I did some RESTful Routing with Node.Js, MongoDb and Express. I had a lot of fun doing this whereas I used to be reluctant to Node.js.
+
+**Thoughts:** 87 days left, forward!
