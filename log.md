@@ -369,3 +369,9 @@
 **Today's Progress**: I did some RESTful Routing with Node.Js, MongoDb and Express. I had a lot of fun doing this whereas I used to be reluctant to Node.js.
 
 **Thoughts:** 87 days left, forward!
+
+### Round 1 Day 14: August 10, 2017
+
+**Today's Progress**: I ended my RESTful Routing work with Node.Js. Then I learned how to do data associations with it and code modularisation with module.exports.
+
+**Thoughts:** 86 days left, good things are coming!
