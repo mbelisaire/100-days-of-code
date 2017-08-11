@@ -375,3 +375,13 @@
 **Today's Progress**: I ended my RESTful Routing work with Node.Js. Then I learned how to do data associations with it and code modularisation with module.exports.
 
 **Thoughts:** 86 days left, good things are coming!
+
+### Round 1 Day 15: August 11, 2017
+
+**Today's Progress**: I start learning how to do authentication with Passport.js in Node.Js. It's really powerful and it prevents a lot of headaches.
+
+**Thoughts:** 85 days left, gotta stand!
+
+
+
+
