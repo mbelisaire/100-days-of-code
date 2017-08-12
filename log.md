@@ -382,6 +382,8 @@
 
 **Thoughts:** 85 days left, gotta stand!
 
+### Round 1 Day 16: August 12, 2017
 
+**Today's Progress**: I did some more authentication with Passport in Node.Js and I start to learn how to use Redux with React.Js!
 
-
+**Thoughts:** Many projects, and no time!
