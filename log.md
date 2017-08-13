@@ -387,3 +387,9 @@
 **Today's Progress**: I did some more authentication with Passport in Node.Js and I start to learn how to use Redux with React.Js!
 
 **Thoughts:** Many projects, and no time!
+
+### Round 1 Day 17: August 13, 2017
+
+**Today's Progress**: I spent the day fighting with geotiff files in colorspace gray that I want to render in a browser as png or whatever!
+
+**Thoughts:** last time working with geotiff
