@@ -393,3 +393,9 @@
 **Today's Progress**: I spent the day fighting with geotiff files in colorspace gray that I want to render in a browser as png or whatever!
 
 **Thoughts:** last time working with geotiff
+
+### Round 1 Day 18: August 14, 2017
+
+**Today's Progress**: I solved my problem with geotiff files and I did some more work with Node.Js! 
+
+**Thoughts:** one day left with geotiff
