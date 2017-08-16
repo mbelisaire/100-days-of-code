@@ -399,3 +399,16 @@
 **Today's Progress**: I solved my problem with geotiff files and I did some more work with Node.Js! 
 
 **Thoughts:** one day left with geotiff
+
+### Round 1 Day 19: August 15, 2017
+
+**Today's Progress**: I worked until early morning on an Openlayers map with a Node.Js backend and I am pretty happy of the result!
+
+**Thoughts:** it was a long night...
+
+### Round 1 Day 20: August 16, 2017
+
+**Today's Progress**: I have some problems with my Openlayers app on Heroku but I figured out what is the problem! I also did some React.js
+
+**Thoughts:** Heroku?! Nice to meet you...
+
