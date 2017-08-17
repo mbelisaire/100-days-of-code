@@ -412,3 +412,8 @@
 
 **Thoughts:** Heroku?! Nice to meet you...
 
+### Round 1 Day 21: August 17, 2017
+
+**Today's Progress**: I solved my problem with Heroku using Amazon S3. I learned a lot from this first failed deployment. 
+
+**Thoughts:** Heroku?! Maybe we will be friends one day
