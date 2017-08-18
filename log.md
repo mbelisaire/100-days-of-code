@@ -417,3 +417,9 @@
 **Today's Progress**: I solved my problem with Heroku using Amazon S3. I learned a lot from this first failed deployment. 
 
 **Thoughts:** Heroku?! Maybe we will be friends one day
+
+### Round 1 Day 22: August 18, 2017
+
+**Today's Progress**: I'm back to Node.Js now, for a few days, I guess. I really want to finish the course I started and I am getting close! 
+
+**Thoughts:** Getting more work! But work is life.
