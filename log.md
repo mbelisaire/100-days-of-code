@@ -423,3 +423,9 @@
 **Today's Progress**: I'm back to Node.Js now, for a few days, I guess. I really want to finish the course I started and I am getting close! 
 
 **Thoughts:** Getting more work! But work is life.
+
+### Round 1 Day 23: August 20, 2017
+
+**Today's Progress**: I did a pause yesterday, and today I'm back to Node.js, trying to finish my learning project, still a few days to go!
+
+**Thoughts:** Work Hard, Dream Big...
