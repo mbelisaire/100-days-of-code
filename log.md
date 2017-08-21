@@ -429,3 +429,14 @@
 **Today's Progress**: I did a pause yesterday, and today I'm back to Node.js, trying to finish my learning project, still a few days to go!
 
 **Thoughts:** Work Hard, Dream Big...
+
+### Round 1 Day 24: August 21, 2017
+
+**Today's Progress**: I keep on working on my Node.js learning project, it would be nice to finish it this week! Next step add authentication!
+
+**Thoughts:** ...This 'side' work... I'd prefer coding
+
+
+
+
+
