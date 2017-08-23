@@ -436,7 +436,8 @@
 
 **Thoughts:** ...This 'side' work... I'd prefer coding
 
+### Round 1 Day 25: August 22, 2017
 
+**Today's Progress**: I am still working on my Node.js learning project, I added the authentication! Hope everybody is having a nice day!
 
-
-
+**Thoughts:** ...Gotta do this 'side' work...
