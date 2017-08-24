@@ -441,3 +441,15 @@
 **Today's Progress**: I am still working on my Node.js learning project, I added the authentication! Hope everybody is having a nice day!
 
 **Thoughts:** ...Gotta do this 'side' work...
+
+### Round 1 Day 26: August 23, 2017
+
+**Today's Progress**: I am still working on my Node.js learning project, today, I worked on the models structure to associate my objects to the connected user.
+
+**Thoughts:** ...Gotta do this 'side' work!...
+
+### Round 1 Day 27: August 24, 2017
+
+**Today's Progress**: I am still working on my Node.js learning project, today, I added authorizations to some of my routes.
+
+**Thoughts:** ...Gotta do this 'side' work!!...
