@@ -453,3 +453,9 @@
 **Today's Progress**: I am still working on my Node.js learning project, today, I added authorizations to some of my routes.
 
 **Thoughts:** ...Gotta do this 'side' work!!...
+
+### Round 1 Day 28: August 25, 2017
+
+**Today's Progress**: I kept on working on my Node.js learning project, and did more authorizations, next step: Flash Messages!
+
+**Thoughts:** ...Yes I can!...
