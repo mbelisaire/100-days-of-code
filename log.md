@@ -459,3 +459,10 @@
 **Today's Progress**: I kept on working on my Node.js learning project, and did more authorizations, next step: Flash Messages!
 
 **Thoughts:** ...Yes I can!...
+
+### Round 1 Day 29: August 26, 2017
+
+**Today's Progress**: I kept on working on my Node.js learning project, and added Flash Messages! It's a nice way to handle error/success messages. Like it!
+
+**Thoughts:** Say it again!?
+
