@@ -466,3 +466,14 @@
 
 **Thoughts:** Say it again!?
 
+### Round 1 Day 30: August 27, 2017
+
+**Today's Progress**: I did some UI improvements on my Node.js learning project.
+
+**Thoughts:** YES I CAN!
+
+### Round 1 Day 31: August 28, 2017
+
+**Today's Progress**: I tried to learn more about "this" keyword. 
+
+**Thoughts:** I am on it!
