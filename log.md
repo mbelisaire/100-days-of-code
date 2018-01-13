@@ -477,3 +477,9 @@
 **Today's Progress**: I tried to learn more about "this" keyword. 
 
 **Thoughts:** I am on it!
+
+### Round 1 Day 1: January 12, 2018
+
+**Today's Progress**: I am back doing some Android Dev, ios and more. This is the right time to reach these 100 Days Of Code. 
+
+**Thoughts:** I achieve this side work that I had to do, now I can focus on upgrading my skills.
