@@ -483,3 +483,15 @@
 **Today's Progress**: I am back doing some Android Dev, ios and more. This is the right time to reach these 100 Days Of Code. 
 
 **Thoughts:** I achieve this side work that I had to do, now I can focus on upgrading my skills.
+
+### Round 1 Day 2: January 13, 2018
+
+**Today's Progress**: Still learning @AndroidDev and ios.
+
+**Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 3: January 14, 2018
+
+**Today's Progress**: I did some Wordpress learning and I'm about to finish one of @techedrob course, I did a clockface with html5 which was really interesting..
+
+**Thoughts:** Let's go to 100 days of code.
