@@ -495,3 +495,15 @@
 **Today's Progress**: I did some Wordpress learning and I'm about to finish one of @techedrob course, I did a clockface with html5 which was really interesting..
 
 **Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 4: January 15, 2018
+
+**Today's Progress**: I did some Android development on Udacity, learning networking from Android App.
+
+**Thoughts:** Totally forgot about updating my log ^^'
+
+### Round 1 Day 5: January 16, 2018
+
+**Today's Progress**: I did some ios/swift learning.
+
+**Thoughts:** Let's go to 100 days of code.
