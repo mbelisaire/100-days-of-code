@@ -507,3 +507,15 @@
 **Today's Progress**: I did some ios/swift learning.
 
 **Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 6: January 17, 2018
+
+**Today's Progress**: I did some IOS development, learning swift.
+
+**Thoughts:** this log ^^'
+
+### Round 1 Day 7: January 18, 2018
+
+**Today's Progress**: I did some python learning.
+
+**Thoughts:** Let's go to 100 days of code.
