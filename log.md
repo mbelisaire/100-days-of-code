@@ -519,3 +519,21 @@
 **Today's Progress**: I did some python learning.
 
 **Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 8: January 19, 2018
+
+**Today's Progress**: I did more python learning.
+
+**Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 9: January 20, 2018
+
+**Today's Progress**: Still python.
+
+**Thoughts:** Let's go to 100 days of code.
+
+### Round 1 Day 10: January 21, 2018
+
+**Today's Progress**: Let's say I'm done with python.
+
+**Thoughts:** Thinking about Django now...
