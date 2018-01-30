@@ -537,3 +537,9 @@
 **Today's Progress**: Let's say I'm done with python.
 
 **Thoughts:** Thinking about Django now...
+
+### Round 1 Day 11-18: January 21-29, 2018
+
+**Today's Progress**: I kept on learning Android (more Networking and RecyclerView), Swift Basics and did my first IOS app. I also started the Twitter Clone with MVC from Rob Percival's course. I also tried hackerrank.
+
+**Thoughts:** Let's go to the certif!
