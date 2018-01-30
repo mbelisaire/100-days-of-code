@@ -543,3 +543,9 @@
 **Today's Progress**: I kept on learning Android (more Networking and RecyclerView), Swift Basics and did my first IOS app. I also started the Twitter Clone with MVC from Rob Percival's course. I also tried hackerrank.
 
 **Thoughts:** Let's go to the certif!
+
+### Round 1 Day 19: January 30, 2018
+
+**Today's Progress**: I've played with the YoutubeAPI, time to go to bed 😪😪😪
+
+**Thoughts:** Choice time!
